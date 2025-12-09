@@ -1,4 +1,7 @@
+fastapi
+uvicorn
+pillow
 torch
 torchvision
-pillow
-pyttsx3
+pytesseract
+python-multipart
